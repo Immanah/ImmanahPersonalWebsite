@@ -1,12 +1,12 @@
-{
+ {
   "name": "immanah-portfolio",
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
   "scripts": {
     "dev": "tsx server/index.ts",
-    "build": "vite build", // Only builds the frontend part, as Vercel handles backend separately
-    "start": "NODE_ENV=production node dist/index.js", // This would be for serverless setups or running locally
+    "build": "vite build", 
+    "start": "NODE_ENV=production node dist/index.js",
     "check": "tsc",
     "db:push": "drizzle-kit push"
   },
