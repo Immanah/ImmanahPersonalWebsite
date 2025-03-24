@@ -14,10 +14,10 @@ export default defineConfig({
             "@shared": path.resolve(__dirname, "shared"),
         },
     },
-    root: path.resolve(__dirname, "client"),
-    base: "./",  //  Ensures assets load correctly
+    root: path.resolve(__dirname, "client"), // Ensure 'client' is the root
+    base: '/client/',  // Adjust base for deployment
     build: {
-        outDir: path.resolve(__dirname, "../dist/public"), //  Puts the build files in dist/public
+        outDir: path.resolve(__dirname, "../dist"), // Output build files to the root 'dist' folder
         emptyOutDir: true,
     },
 });
