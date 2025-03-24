@@ -2,12 +2,12 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import path, { dirname } from "path";
 import { fileURLToPath } from "url";
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
+
 export default defineConfig({
-    plugins: [
-        react(),
-    ],
+    plugins: [react()],
     resolve: {
         alias: {
             "@": path.resolve(__dirname, "client", "src"),
@@ -15,8 +15,9 @@ export default defineConfig({
         },
     },
     root: path.resolve(__dirname, "client"),
+    base: "./",  //  Ensures assets load correctly
     build: {
-        outDir: path.resolve(__dirname, "dist/public"),
+        outDir: path.resolve(__dirname, "../dist/public"), //  Puts the build files in dist/public
         emptyOutDir: true,
     },
 });
