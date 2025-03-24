@@ -1,0 +1,66 @@
+Name: Immanah Makitla
+Title: Final-Year Computer Science Student | AI & Software Development Enthusiast | Leadership in Tech & Academia
+Short Bio:
+I am a highly motivated final-year Computer Science student with a diverse range of technical and leadership skills. Over the course of my academic journey, I have acquired substantial expertise in software development, artificial intelligence, and network security, which I apply to real-world projects. As a leader, I have cultivated both my technical and soft skills, demonstrating my ability to collaborate effectively, manage teams, and deliver results under pressure. From my role as Secretary of the International Student Society to my academic achievements, I continuously push myself to learn and grow. As I near the completion of my degree, I am driven to transition into the professional tech world, where I can further refine my skills and make meaningful contributions.
+
+View Resume (Button: Downloadable PDF resume)
+
+Contact Me (Button: LinkedIn, GitHub, or Email)
+
+Experience Section
+Secretary | International Student Society | Eduvos
+January 2023 – Present
+In my role as Secretary of the International Student Society, I was responsible for managing communication between club members, the administration, and external stakeholders. I played a key role in organizing events, from ideation through execution, ensuring smooth operations and high member engagement. My responsibilities included drafting official club documents, coordinating meetings, and overseeing logistics for both virtual and in-person events. My role sharpened my organizational, time-management, and communication skills, and it taught me how to lead diverse teams to achieve shared goals in a multicultural environment. Through this experience, I also gained critical skills in leadership, project management, and negotiation, which I continue to apply in both my academic and personal projects.
+
+Supplemental Instruction (SI) Leader | Eduvos
+January 2022 – December 2022
+As a Supplemental Instruction Leader for the Calculus 1A course, I developed and led weekly review sessions for students, creating study materials that simplified complex mathematical concepts. I utilized my deep understanding of calculus to explain difficult topics in ways that were accessible and engaging, fostering an environment where students felt comfortable asking questions and actively participating. This leadership role honed my mentoring, public speaking, and educational communication skills. By tailoring my approach to the diverse learning styles of my peers, I helped improve their academic performance while enhancing my ability to present complex ideas in simple terms. This experience reinforced my problem-solving and critical-thinking abilities, which are vital in both academic and technical settings.
+
+Skills Section
+Throughout my time at Eduvos, I have gained both technical and soft skills across various domains of Computer Science, through my coursework, hands-on projects, and leadership roles.
+
+Technical Skills
+
+Software Development: Proficient in programming languages such as C++, Java, Python, and C#.
+AI & Machine Learning: Hands-on experience in developing AI models using machine learning techniques, including supervised and unsupervised learning algorithms.
+Data Structures & Algorithms: Strong foundation in algorithm design and data structure implementation, particularly in C#, optimizing performance for complex problems.
+Network Security: Knowledge of network security protocols, cryptography, firewalls, and intrusion detection systems, as well as hands-on experience in securing networks.
+Object-Oriented Programming: Extensive experience with object-oriented design principles, particularly in Java and C++, focusing on reusability and maintainability of code.
+Database Management: Familiar with database systems, including SQL and NoSQL databases, and experience in designing scalable database structures for real-world applications.
+Software Design & Project Management: Skilled in software design patterns, UML, and agile project management techniques to ensure successful software development lifecycle completion.
+Networking: Advanced networking knowledge, including protocols, IP addressing, routing, and switching, with practical experience in configuring routers and switches for secure network setups.
+Soft Skills
+
+Leadership & Teamwork: Demonstrated leadership in managing teams, leading academic review sessions, and participating in student clubs, with a focus on clear communication and conflict resolution.
+Problem-Solving & Critical Thinking: Applied analytical thinking to solve complex problems across various domains, from mathematical theories to network security.
+Project Management: Proven ability to manage multiple tasks and meet deadlines, demonstrated through organizing club events and overseeing collaborative academic projects.
+Communication: Excellent written and verbal communication skills, honed through academic presentations, student organization roles, and mentoring.
+Adaptability: Ability to adapt to new challenges, technologies, and diverse environments, as seen in my progression from a student to a leader within various academic and extracurricular contexts.
+Projects Section
+Library Management System
+
+Tech Stack: Java (Spring Boot), MySQL, React.js
+Features: CRUD operations, Google Books API integration, JWT authentication, performance optimization using multithreading, and a shift from Swing UI to React-based frontend.
+Future Plans: Cloud storage, payment gateways, and AI-powered book recommendations.
+Bubble (Mental Health Support App)
+
+Tech Stack: React.js, Flask, OpenAI GPT-3, JWT, Socket.IO
+Features: AI-driven emotional support conversations, personalized wellness reminders, and journaling system. Live project deployed on Heroku with plans for scaling to AWS EC2.
+Shazam-Integrated Playlist Generator (Coming Soon)
+
+Description: I am building an app that automatically adds songs identified by Shazam into playlists across Spotify, iTunes, YouTube, and other platforms. This will eliminate the need for manual song insertion, making music discovery more seamless.
+Basketball Blog Website (Coming Soon)
+
+Description: I am working on a website dedicated to basketball enthusiasts, featuring personal blogs, game breakdowns, player stats, and sports journalism content. The website will foster a community of basketball fans, showcasing deep insights into the sport.
+Invoice System for My Dad’s Hardware Business (Coming Soon)
+
+Description: I am creating a website for my dad's hardware business that generates invoices by selecting products from suppliers. Features include:
+Price comparisons to ensure the most competitive rates
+Invoice template modifications
+Automated invoice creation to streamline the process.
+Automated Data Entry and Invoice Generator (Coming Soon)
+
+Description: I am developing a tool that scans and reads data from various sources and automatically populates the data into an invoice template.
+Excel-friendly
+Allows template modifications
+Price comparison features to ensure accurate, up-to-date pricing for invoices.
