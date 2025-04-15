@@ -5,16 +5,6 @@ node_modules/
 dist/
 server/public/
 
-# Replit specific
-.replit
-.upm/
-.config/
-.cache/
-.local/
-generated-icon.png
-replit.nix
-.breakpoints
-.lsp/
 
 # Environment variables
 .env
